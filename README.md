@@ -18,7 +18,7 @@ This script allows you to delete or move selected assets in the Unreal Engine Ed
 3. Locate your script in your project's files and run it.
 
 # Notes
-* * Be careful when using the Asset Deletion Tool, as it permanently deletes assets. Make sure you have backups of your project before using the tool.
+* Be careful when using the Asset Deletion Tool, as it permanently deletes assets. Make sure you have backups of your project before using the tool.
 * The Asset Deletion Tool only deletes assets that are not referenced by other assets in the project. If an asset is referenced by other assets, it will not be deleted.
 * The Asset Deletion Tool does not support deleting assets that are loaded by a running level. If an asset is loaded by a running level, it will not be deleted.
 * The Asset Deletion Tool does not work with assets that are locked in the Content Browser.
